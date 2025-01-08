@@ -1,0 +1,13 @@
+{
+  "main": "app.js",
+  "module": "es6",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "typescript": "^5.7.2"
+  }
+}
